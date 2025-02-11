@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 
-2025 Aaron Thompson
+2025 Aaron Thompson All rights reserved.
